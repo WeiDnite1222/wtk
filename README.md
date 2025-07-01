@@ -1,2 +1,2 @@
-# wtk
+# wtkextra
 My Tkinter libray extension
